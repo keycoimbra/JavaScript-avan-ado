@@ -1,11 +1,8 @@
-//function eu preciso escrever toda estrutura e indicar o return ex:
+/* As funções de array foram criadas para facilitar 
+na manipulação de arrays Javascript. Essas funções de array
+são implementações de funções continuamente utilizadas no dia a dia.
+-> São para adicionar valor, remover valor, percorrer a lista, 
+juntar listas, fazer filtros e entre outros.
 
-function soma(x,y){
-    return x + y
-}
-console.log(soma(3,5))
-
-//com arrow eu vou sintetizar bem mais*/
-
-//const soma = (num1, num2) => (num1 + num2)
+1. Add valor
 
